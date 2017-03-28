@@ -21,6 +21,6 @@ public interface Constants {
     final public static int INTEGER_DATA = 2017;
     final public static ArrayList<String> ARRAY_LIST_DATA = new ArrayList<>(Arrays.asList("EIM", "2017"));
 
-    final public static long SLEEP_TIME = 5000;
+    final public static long SLEEP_TIME = 1000;
 
 }
